@@ -8,6 +8,11 @@
 
 [![](https://img.shields.io/badge/-Detailed%20Content%20on%20the%20Website%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 
+
+## 데브옵스 로드맵
+
+[![img](./img/devops(kr).png)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
+
 아래에는 여러분이 선택할 수 있는 진로와, 프론트엔드, 백엔드 또는 데브옵스가 되기 위해 채택할 기술들을 나타내는 차트들이 있습니다. 저는 무언가 공유하면서 대학 학부생들에게 통찰력을 주고싶어 하셨던 제 노교수님을 위해 본 차트를 작성했습니다. 이렇게 커뮤니티를 돕기 위해 이곳에 공유하면서 말이죠.
 
 ***
@@ -43,12 +48,6 @@
 
 ![백엔드 로드맵](./img/backend(kr).png)
 
-## 데브옵스 로드맵
-
-[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
-
-![데브옵스 로드맵](./img/devops(kr).png)
-
 ## 🚦 마치며
 
 언제든지 개선할 부분이 있으면 issue에 discuss 해주세요. 저 또한 끊임없이 본 로드맵을 개선해 나갈 것이며, 그리하여 여러분들이 본 저장소를 꾸준히 보고싶어하고, [roadmap.sh](http://roadmap.sh)을 방문하고 구독하고 싶어하게 되기를 바랍니다.
@@ -60,9 +59,7 @@
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
  
 ## License
 
 Have a look at the [license file](./LICENSE) for details
-# roadmap
